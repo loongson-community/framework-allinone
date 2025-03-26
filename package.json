@@ -1,0 +1,14 @@
+{
+  "name": "framework-allinone",
+  "title": "Loongarch Framework",
+  "description": "Loongarch framwork package",
+  "keywords": [
+    "framework"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hawordh/framework-allinone.git"
+  },
+  "version": "1.0.0",
+  "homepage": "https://www.loongson.cn"
+}

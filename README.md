@@ -1,1 +1,2 @@
-# framework-allinone
+# LoongArch Framework Package
+
